@@ -1,0 +1,47 @@
+positive words:
+good:0.5
+excellent:1
+awesome:0.8
+best:1
+epic:1
+amazing:0.9
+beautiful:0.7
+like:0.4
+legendary:1
+breathtaking:1
+appreciate:0.6
+great:0.8
+fantastic:0.9
+magnificient:0.9
+marvelous:1
+pretty:0.6
+ultimate:0.9
+wonderful:0.8
+wow:0.7
+
+negative words:
+bad:0.5
+dirty:0.4
+worst:1
+sucks:0.8
+hate:0.9
+dislike:0.4
+disgusting:0.6
+boring:0.6
+worthless:0.8
+horrible:0.9
+waste:0.7
+awful:0.8
+poor:0.7
+petty:0.9
+crap:1
+shit:1
+dumb:0.7
+creepy:0.7
+bizzare:0.6
+offensive:1
+
+
+pos_dict = {"good":0.5,"excellent":1,"awesome":0.8,"best":1,"epic":1,"amazing":0.9,"beautiful":0.7,"like":0.4,"legendary":1,"breathtaking":1,"appreciate":0.6,"great":0.8,"fantastic":0.9,"magnificient":0.9,"marvelous":1,"pretty":0.6,"ultimate":0.9,"wonderful":0.8,"wow":0.7}
+
+neg_dict= {"bad":0.5,"dirty":0.4,"worst":1,"sucks":0.8,"hate":0.9,"dislike":0.4,"disgusting":0.6,"boring":0.6,"worthless":0.8,"horrible":0.9,"waste":0.7,"awful":0.8,"poor":0.7,"petty":0.9,"crap":1,"shit":1,"dumb":0.7,"creepy":0.7,"bizzare":0.6,"offensive":1}
